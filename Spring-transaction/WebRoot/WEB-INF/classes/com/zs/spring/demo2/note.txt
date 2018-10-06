@@ -1,0 +1,2 @@
+本demo为声明式事务管理
+--基于TransactionProxyFactoryBean的方式
